@@ -1194,13 +1194,6 @@ pre .javascript .function {
   margin: 0 auto;
   max-width: 120px;
   padding: 2px;
-  border-radius: 50%;
-}
-.site-author-image {
-  transition: transform 1s ease-out;
-}
-.site-author-image:hover {
-  transform: rotateZ(360deg);
 }
 .site-author-name {
   color: var(--text-color);
@@ -1228,7 +1221,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff96ff;
+  background: #abab28;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2759,4 +2752,28 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: url("https://unsplash.it/1600/900?random");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100% 106%;
+}
+.post-block {
+  background: rgba(255,255,255,0.7) none repeat scroll !important;
+}
+.pagination {
+  background: rgba(255,255,255,0.7);
+}
+.header-inner {
+  background: rgba(255,255,255,0.7);
+}
+.sidebar-inner {
+  background: rgba(255,255,255,0.7) none repeat scroll !important;
+}
+.popup {
+  opacity: 0.7;
+}
+.comments {
+  background: rgba(255,255,255,0.7);
 }

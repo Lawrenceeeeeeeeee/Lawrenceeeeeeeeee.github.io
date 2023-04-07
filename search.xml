@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>人类观察日志 Part0</title>
-    <url>/2023/04/01/humanlog0/</url>
-    <content><![CDATA[<p>这是人类观察日志</p>
-]]></content>
-      <categories>
-        <category>humanlog</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>相册 Part0</title>
-    <url>/2023/04/01/album0/</url>
-    <content><![CDATA[<p>这是一个相册。</p>
-]]></content>
-      <categories>
-        <category>album</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/04/01/hello-world/</url>
     <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -89,6 +71,24 @@
 ]]></content>
       <categories>
         <category>album</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>相册 Part0</title>
+    <url>/2023/04/01/album0/</url>
+    <content><![CDATA[<p>这是一个相册。</p>
+]]></content>
+      <categories>
+        <category>album</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>人类观察日志 Part0</title>
+    <url>/2023/04/01/humanlog0/</url>
+    <content><![CDATA[<p>这是人类观察日志</p>
+]]></content>
+      <categories>
+        <category>humanlog</category>
       </categories>
   </entry>
   <entry>
